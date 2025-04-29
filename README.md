@@ -75,12 +75,12 @@ I speak fluent YAML and dream in Terraform. Building the digital highways of tom
       <br>Metric Junkie
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="65" height="65" />
-      <br>Pipeline Plumber
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+      <br>Realtime Wizard
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
-      <br>Penguin Whisperer
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" />
+      <br>UI Enchanter
     </td>
   </tr>
 </table>
@@ -92,7 +92,22 @@ I speak fluent YAML and dream in Terraform. Building the digital highways of tom
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikranth&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
-## 🤖 AI Adventures & Experiments
+## ✨ Digital Creations & Contraptions
+
+### 📱 [Paper Plane](https://ejoy-55ca1.web.app/home) - Digital Invitation Platform
+<img src="https://via.placeholder.com/800x400?text=Paper+Plane+Screenshot" width="100%" alt="Paper Plane Screenshot" />
+
+Ever wished you could send invitations without killing trees or licking envelopes? Say hello to Paper Plane! My fully-featured digital invitation platform where:
+
+- **Templates become magic spells**: Create, customize, and share beautiful invitation designs without needing a design degree
+- **Events organize themselves**: Track RSVPs, manage guest lists, and watch engagement metrics without spreadsheet nightmares
+- **Sharing happens at light speed**: Generate links, QR codes, and social media posts faster than you can say "You're Invited!"
+
+Built with **React**, **Firebase**, and a sprinkle of "why hasn't someone made this easier before?" energy. The drag-and-drop editor makes design so simple that even your tech-challenged relatives can use it!
+
+*Currently accepting testers and feedback! Domain name coming soon...*
+
+### 🤖 AI Adventures & Experiments
 
 When I'm not keeping infrastructure from imploding, I'm teaching machines to do my bidding:
 
@@ -126,7 +141,7 @@ When I'm not keeping infrastructure from imploding, I'm teaching machines to do 
   </tr>
 </table>
 
-## 🏗️ Digital Sandcastles I've Built
+## 🏗️ Infrastructure Magic Spells
 
 <details>
   <summary><b>🔍 "Why Is It Always DNS?" Monitoring Platform</b></summary>
@@ -165,7 +180,7 @@ When I'm not keeping infrastructure from imploding, I'm teaching machines to do 
 
 ## 📫 Summon Me Via
 
-Need a digital exorcism for your infrastructure? Want help training an AI that won't plot against humanity? Just want to chat?
+Need a digital exorcism for your infrastructure? Want help with digital invitations that don't get lost in spam folders? Just want to chat?
 
 - 💼 [LinkedIn](https://linkedin.com/in/manikranth-bheemineni-49aa6292) (for the professional summoning)
 - 📧 Email: manikranth.bheemineni@gmail.com (for the direct incantation)
