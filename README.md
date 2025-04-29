@@ -184,7 +184,7 @@ Need a digital exorcism for your infrastructure? Want help with digital invitati
 
 - 💼 [LinkedIn](https://linkedin.com/in/manikranth-bheemineni-49aa6292) (for the professional summoning)
 - 📧 Email: manikranth.bheemineni@gmail.com (for the direct incantation)
-- 🌐 Website: [your-portfolio-url.com](https://your-portfolio-url.com) (for the full magical experience)
+- 🌐 Website: [your-portfolio-url.com] (https://manikranth.github.io/) (for the full magical experience)
 
 ---
 
