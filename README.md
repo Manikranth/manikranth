@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikranth-bheemineni-49aa6292)
 [![Email](https://img.shields.io/badge/Email-Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikranth.bheemineni@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-My_digital_playground-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Website](https://img.shields.io/badge/Portfolio-My_digital_playground-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manikranth.github.io/)
 
 ## 🧙‍♂️ Reliability engineer because even computers need therapy sometimes
 
